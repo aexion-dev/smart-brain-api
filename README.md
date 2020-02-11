@@ -1,4 +1,5 @@
-Back-end server for smart-brain facial recognition app: https://arcane-bayou-28934.herokuapp.com/
+# Smart Brain API
+Back-end Node.js server for smart-brain facial recognition app. Handles client routing, user data management and Clarifai API requests. 
 
 Technologies:
 
