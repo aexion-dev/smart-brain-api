@@ -1,4 +1,4 @@
-Back-end server for smart-brain facial recognition app. 
+Back-end server for smart-brain facial recognition app: https://arcane-bayou-28934.herokuapp.com/
 
 Technologies:
 
