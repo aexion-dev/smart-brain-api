@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "file-type": "^14.3.0",
+    "file-type": "^16.5.4",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.20.8",
